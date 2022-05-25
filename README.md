@@ -1,2 +1,2 @@
 # repo
-contain all the project done by learning
+Project for learning
